@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jazira</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h1 align="center">Hi, I'm Jazira 👋</h1>
+<h3 align="center">A Java developer, and certified ServiceNow administrator</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
